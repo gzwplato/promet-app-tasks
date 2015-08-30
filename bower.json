@@ -1,0 +1,21 @@
+{
+  "name": "promet-app-tasks",
+  "version": "0.0.0",
+  "authors": [
+    "Christian U. <info@cu-tec.de>"
+  ],
+  "main": "tasks.html",
+  "keywords": [
+    "Task",
+    "management"
+  ],
+  "license": "GPLv2",
+  "homepage": "http://www.free-erp.de",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

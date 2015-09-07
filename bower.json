@@ -1,21 +1,20 @@
 {
   "name": "promet-app-tasks",
   "version": "0.0.0",
+  "homepage": "http://www.free-erp-de",
   "authors": [
     "Christian U. <info@cu-tec.de>"
   ],
-  "main": "tasks.html",
-  "keywords": [
-    "Task",
-    "management"
-  ],
+  "main": "index.html",
   "license": "GPLv2",
-  "homepage": "http://www.free-erp.de",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
 }
